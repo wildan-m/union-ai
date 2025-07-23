@@ -1,0 +1,29 @@
+# Flyte configuration for local development and testing
+# This demonstrates typical customer configuration patterns
+
+admin:
+  endpoint: localhost:30080
+  insecure: true
+
+logger:
+  show-source: true
+  level: 1
+
+storage:
+  type: minio
+  connection:
+    endpoint: http://localhost:30084
+    access-key: minio
+    secret-key: miniostorage
+    disable-ssl: true
+
+plugins:
+  logs:
+    kubernetes-enabled: true
+    cloudwatch-enabled: false
+  
+  k8s:
+    default-env-vars:
+      - FLYTE_AWS_ENDPOINT: http://localhost:30084
+      - FLYTE_AWS_ACCESS_KEY_ID: minio
+      - FLYTE_AWS_SECRET_ACCESS_KEY: miniostorage
