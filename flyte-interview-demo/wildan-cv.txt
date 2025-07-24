@@ -1,161 +1,305 @@
 
 
-Dear Talent Acquisition Team,
-
-
-I am writing to express my strong interest in opportunities with your organization. With over 12 years of professional experience spanning software engineering, project management, data analysis, and business automation, I am excited to contribute my diverse skill set to your team's success.
-As a top-rated UpWork freelancer with a 100% Job Success Score, I have successfully delivered 100+ projects for 40+ international clients across industries including healthcare, finance, e-commerce, energy, and government. This experience has equipped me with exceptional adaptability, cross-cultural communication skills, and the ability to deliver results under tight deadlines while maintaining the highest quality standards.
-What I bring to your organization:
-Technical Excellence & Innovation My comprehensive technical background includes full-stack development, API integrations, cloud computing (AWS, Azure), and emerging technologies like AI/ML implementation. I have contributed to open-source projects used by millions of users and developed enterprise solutions that reduced operational costs and improved efficiency by significant margins.
-Business Acumen & Strategic Thinking Beyond technical skills, I excel at understanding business requirements and translating them into practical solutions. My experience includes process optimization, data analysis for decision-making, and creating systems that directly impact bottom-line results. I have consistently earned recognition for projects that delivered measurable business value.
-Leadership & Collaboration Throughout my career, I have successfully coordinated cross-functional teams, mentored junior developers, and managed stakeholder relationships across different time zones. My ability to communicate complex technical concepts to non-technical audiences has been crucial in driving project success and organizational alignment.
-Problem-Solving & Adaptability Whether developing automated data processing systems for healthcare compliance, creating real-time analytics dashboards for energy operations, or building e-commerce integrations for retail clients, I thrive on tackling complex challenges with creative, efficient solutions.
-Recent achievements that demonstrate my value:
-Contributed to React Native application improvements affecting millions of users through enhanced search functionality and performance optimization
-Developed automated healthcare data standardization systems ensuring regulatory compliance under tight deadlines
-Created enterprise analytics platforms that reduced reporting time from days to minutes for critical business metrics
-Built comprehensive training systems that earned Gold awards in corporate improvement programs
-My combination of technical expertise, business understanding, and proven track record of delivering results makes me confident that I can make an immediate positive impact on your team.
-I would welcome the opportunity to discuss how my experience and skills align with your needs. Thank you for considering my application. I look forward to hearing from you.
-Sincerely,
-
-Wildan Muhlis
 WILDAN MUHLIS
 Location: Bandung, West Java, Indonesia
 Email: wildevemail@gmail.com 
-Website: https://wildanmuhlis.com 
-LinkedIn: https://www.upwork.com/fl/wildanmuhlis 
-GitHub: https://github.com/wildan-m 
-YouTube Channel: https://www.youtube.com/channel/UCnCeJrtw31Xidb-pAP4feZw
+Site: https://wildanmuhlis.com 
+UpWork: https://www.upwork.com/fl/wildanmuhlis 
+Github: https://github.com/wildan-m 
+StackOverflow: https://stackoverflow.com/users/1174657/wildan-muhlis 
+I teach here: https://www.youtube.com/channel/UCnCeJrtw31Xidb-pAP4feZw 
 PROFESSIONAL SUMMARY
-Versatile professional with 12+ years of experience in software engineering, project management, data analysis, and business automation. Top-rated UpWork freelancer with proven track record of delivering results for international clients across diverse sectors including e-commerce, healthcare, finance, energy, and government. Strong background in full-stack development, system integration, process optimization, and cross-functional team leadership.
-CORE COMPETENCIES
-Technical Skills: Full-stack development, API integrations, database management, cloud computing (AWS, Azure), automation solutions, data analysis, AI/ML implementation
-Business Skills: Project management, process optimization, client relationship management, team leadership, strategic planning, business analysis, training & development
-Industry Experience: E-commerce, Healthcare, Financial Services, Energy, Government, Education, SaaS platforms
-Languages & Frameworks: JavaScript, TypeScript, Python, PHP, C#, React, Node.js, Laravel, ASP.NET, WordPress
-Tools & Platforms: AWS, Azure, Shopify, Zapier, Google Analytics, Salesforce integrations, Microsoft Office Suite, Jira, GitHub
+Top-rated UpWork freelancer with remarkable Job Success Score and 12+ years of software engineering experience specializing in full-stack development, system integration, and automation. Skilled in developing scalable web applications, API integrations, and data processing solutions. Proven track record of delivering results for international clients across diverse sectors including e-commerce, education, energy, and government.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, PHP, C#, SQL, HTML, CSS, Bash
+Frameworks/Libraries: React, React Native, Next.js, Vue.js, AngularJS, Laravel, ASP.NET Core, ASP.NET MVC, Entity Framework, Razor, Node.js, Redux, Electron
+Cloud & DevOps: AWS (EC2, S3), Azure DevOps, Jenkins, Nginx, Windows Server, Ubuntu, GitHub Actions, TFS
+CI/CD & Monitoring: Azure Pipelines, Sonar, Application Insights, PowerShell scripting
+Database & Storage: SQL Server, PostgreSQL, MySQL, MSSQL, AWS S3
+API & Integrations: REST APIs, SOAP, GraphQL, OAuth2, Webhooks, Postman, SoapUI, Zapier
+E-commerce & CMS: MedusaJS, Shopify, Recharge, WooCommerce, WordPress (Custom Plugins, Themes, REST API)
+Automation Tools: Zapier, DocParser, Puppeteer, Google Apps Script
+AI & ML Tools: OpenAI API (GPT-4, GPT-3.5, Whisper), Google Gemini, LangChain, AnythingLLM, LLM orchestration, prompt engineering, RAG, speech-to-text, text-to-speech, AI-assisted workflows
+Chatbot & Messaging: Discord Bot Development (JS/TS, Python), AI-powered assistants, automation via webhooks & APIs
+Visualization & Docs: Docusaurus, Lunr.js, SSRS, Microsoft Excel/Sheets (advanced formulas), QGIS
+Dev Tools: VS Code, GitHub Copilot, Cursor, Xcode, Visual Studio, Figma, Jira, Bitbucket
+Third-party Integrations: SAP, iMIS, QuickBooks Online, Google APIs, Facebook Pixel, Viral Loops, Klaviyo
+Security & Auth: JWT, OAuth2, SSL/TLS, Application Passwords
+Testing: Unit Testing (React Native, TypeScript), Debugging (Chrome DevTools, Visual Studio), Automated Testing via CI
+Other: Potree, Three.js, SHP File Processing, ASP Classic, Classic ASP.NET, DevExpress, Serenity Framework
 PROFESSIONAL EXPERIENCE
-Senior Software Engineer & Business Consultant (Freelance)
+Software Engineer (Freelance)
 UpWork | May 2019 - Present
-Top-rated freelancer serving 40+ international clients across multiple industries
-Key Achievements:
-Maintained 100% Job Success Score with consistent 5-star client ratings
-Delivered 100+ successful projects ranging from simple automations to complex enterprise solutions
-Mentored junior developers and provided technical training to non-technical stakeholders
-Notable Projects & Clients:
-Healthcare Data Analysis & Compliance
-Collaborated with team of consultants on COVID-19 diagnostic device data standardization project for Australian health consultancy
-Consolidated fragmented datasets from multiple sources into audit-ready reference database
-Implemented data quality controls and regulatory compliance tracking systems
-Delivered comprehensive documentation and reproducible processes under tight deadlines
-Financial Services Application Development
-Enhanced ASP.NET MVC application for US financial services firm (Foreside Financial Group)
-Improved report generation systems and user interface components
-Collaborated with cross-functional teams following agile methodologies
-Delivered clean, maintainable code following industry best practices
-E-commerce Platform Optimization
-Upgraded payment gateway systems for Malaysian hosting company's e-commerce platform
-Developed custom integrations for UK-based health supplement company (JetFuelYou)
-Implemented conversion tracking and performance optimization strategies
-Created automated subscription workflows and customer retention systems
-Enterprise System Integration
-Integrated CRM and Learning Management Systems for training organizations
-Developed custom API solutions for inventory synchronization between multiple platforms
-Created automated data processing pipelines for Australian retail operations
-Implemented security protocols and SSL certificate management for web applications
-Document Processing & Automation
-Built automated invoice processing systems using OCR and AI technologies
-Created custom WordPress plugins and API endpoints for real-time data synchronization
-Developed web scraping solutions for competitive analysis and market research
-Implemented workflow automation using Zapier, Google Apps Script, and custom solutions
-Open Source Contribution - Expensify
-Enhanced search functionality for React Native expense management application used by millions
-Optimized performance through accurate location services and pre-fetching mechanisms
-Resolved critical UI/UX issues across web, iOS, and Android platforms
-Implemented comprehensive testing procedures and collaborated with international development team
-Contributed to cross-platform development using React Native, TypeScript, Redux, and Electron
-Technologies Used: JavaScript, TypeScript, Python, PHP, C#, React, React Native, Next.js, Vue.js, AngularJS, Laravel, ASP.NET Core, ASP.NET MVC, Node.js, WordPress, Shopify, MedusaJS, Recharge, WooCommerce, AWS (EC2, S3), Azure DevOps, SQL Server, PostgreSQL, MySQL, REST APIs, SOAP, GraphQL, OAuth2, Zapier, DocParser, Puppeteer, Google Apps Script, OpenAI API, Discord Bot Development, Three.js, Potree, Jenkins, Nginx, PowerShell, Application Insights, Postman, SoapUI, QuickBooks Online, Google Analytics, Facebook Pixel, Viral Loops, Klaviyo, Docusaurus, Lunr.js, SSRS, AutoMapper, AutoFac, Serenity Framework, SAP API, Redux, Electron, Git, Ubuntu, TeamViewer, Unbounce, MapSVG, iMIS, SAP Litmos
-Senior Web Developer
-Learn Quran | 2017 - Jan 2018
-Educational technology platform connecting Quran teachers with students globally
-Key Achievements:
-Developed scalable platform architecture supporting thousands of concurrent users
-Implemented mobile-responsive design increasing user engagement by 40%
-Created custom WordPress themes and plugins for enhanced functionality
-Collaborated with UI/UX designers to deliver intuitive user experience
-Established agile development processes improving team productivity
-Technologies: PHP, Laravel, WordPress, jQuery, Bootstrap, GitLab
-Software Engineer
+Provide specialized software development services to global clients
+Implement system integrations, web automations, and custom solutions
+Contributor
+Expensify | Jan 2021 - Present
+Enhanced Search Functionality: Refactored ReportActionItem.tsx to support all report action types in search results, improving user experience and resolving app crashes and incomplete task statuses
+Optimized Performance: Reduced delays in receipt submission by implementing accurate location permission checks and pre-fetching GPS data, ensuring seamless user interactions
+Improved UI/UX Consistency: Fixed cursor misalignment in Android input fields, auto-scroll issues in chat, and inconsistent error messages for task titles, enhancing usability across platforms
+Resolved Critical Bugs: Addressed app freezes, race conditions, and rendering issues, ensuring smoother navigation, stable offline functionality, and accurate data display
+Streamlined Cross-Platform Features: Synchronized room leave actions, optimized animations, and improved navigation logic for consistent behavior across web, iOS, and Android
+Implemented Robust Testing: Added unit tests for location modals, API integrations, and UI components to ensure reliability and prevent regressions
+Optimized Asset Loading: Introduced cache-busting mechanisms and optimized image rendering to improve performance and reduce loading times
+Enhanced Accessibility: Fixed text selection, emoji rendering, and hover state issues, ensuring a polished and accessible user interface
+Technologies: React Native, React, TypeScript, Expo, React Navigation, Redux (Onyx), Electron
+PR List: https://github.com/Expensify/App/pulls?q=is%3Apr+author%3Awildan-m+ 
+Freelance Software Engineer
+Jimat Hosting | January - February 2024
+Upgraded Billplz payment gateway plugin for latest MedusaJS and NextJS for Jimat Hosting's headless e-commerce platform
+Developed backend (Medusa) and frontend (NextJS) components
+Resolved Next.js compatibility issues
+Delivered functional plugin with automated order and bill creation
+Technologies: MedusaJS, NextJS, oAuth, Node.js, npm, Git, Ubuntu, Nginx
+Data Analyst (Contract)
+Eureka Idea Co, Golden Bay, Australia | Mar 2022 – Jun 2022
+Collaborated with a team of consultants on a health and medical device data cleaning initiative focused on COVID-19 Rapid Diagnostic Test (RDT) kits
+Consolidated fragmented datasets from diverse sources—including spreadsheets and PDFs—into a standardized, audit-ready reference list
+Identified and removed duplicate records, normalized data structure, tracked regulatory approvals (e.g., WHO EUL, National Regulatory Authorities by country)
+Documented all substantial edits for reproducibility
+Ensured each data point retained its original source reference and followed strict formatting requirements under tight turnaround timelines
+Technologies: Microsoft Excel, Google Sheets, PDF to Excel conversion tools, spreadsheet formulas
+DevOps Engineer
+Printerpix, UK | June 2021 - Jan 2022
+Streamlined Azure DevOps Deployments: Created and configured production release pipelines, re-adjusted QA and staging paths, and implemented controlled batched deployments (later adjusted for parallel execution) for BackOffice and printerpixapi projects.
+Resolved Critical Deployment Issues: Troubleshooted and corrected deployment scripts for BO staging, and resolved a critical staging server deployment failure by identifying and addressing writeable storage limitations, ensuring successful artifact deployment.
+Enhanced Application Monitoring: Diagnosed and resolved missing CPU/memory utilization data in Application Insights by implementing automated PowerShell tasks to add application pools to "Performance Monitor Users" groups, and fixed server-side logging issues on QA environments.
+Provided Technical Expertise & Guidance: Explained Application Insights codeless telemetry, SQL query collection, and PAT expiration behavior for Azure DevOps agents. Mentored a colleague (Binh Nguyen) in building the MWareweb pipeline from scratch.
+Optimized CI/CD Infrastructure: Advised on increasing concurrent job runs and agent capacity in Azure DevOps to handle parallel activities efficiently, contributing to improved build times and resource management.
+Technologies: Azure DevOps, PowerShell, Application Insights, Windows Server, SQL, Sonar
+Tidewater Website Solutions, US | April 2021 – April 2021
+WordPress Customization & Performance: Reconfigured website by removing Buttonizer Pro plugin and implementing two permanent, responsive buttons, maintaining exact look, feel, placement, design, and icons.
+Theme & Plugin Management: Created a child theme to ensure changes were resistant to future theme updates and migrated Google Tag Manager (GTM) code to the child theme to prevent duplicate tracking.
+UI/UX Enhancement: Resolved button display issues across various screen sizes to improve user experience.
+Key Achievement: Earned a 5.0/5.0 client rating for excellent work quality, communication, and responsiveness.
+Technologies: WordPress, CSS, FTP, Child Themes
+Web Automation & Integration Specialist
+JetFuelYou, UK | Jan 2021 – Apr 2021
+Customized Unbounce landing pages to support lead generation campaigns and product launches, including page duplication, reskinning, and content updates
+Integrated Viral Loops referral workflows with Facebook and email signups, customizing functionality not natively supported by the platform
+Resolved complex bugs involving GDPR checkboxes, social share metadata truncation, and email branding within Viral Loops campaigns
+Implemented conversion tracking via Google Analytics Event Goals and optimized Unbounce performance through script, image, and embed minimization
+Advised on Facebook pixel domain setup and resolved domain verification issues for segmented tracking across multiple JetFuelYou subdomains
+Developed Recharge subscription workflows for Shopify including a 50% off first-month logic, while navigating compatibility constraints with other tools like OneClickUpsell (OCU)
+Provided remote troubleshooting and real-time support via TeamViewer for critical production issues during weekend deployments
+Technologies: JavaScript, Unbounce, Shopify, Recharge, Viral Loops, Klaviyo, Zapier, Facebook Pixel, Google Analytics, TeamViewer, GTMetrix, Pingdom Tools
+Web Developer – Documentation Site Migration
+Slicetex | Jan 2022
+Migrated technical user manual to an online format using Docusaurus
+Configured static site with TypeScript support, deployed to AWS S3
+Integrated Lunr.js for client-side search functionality
+Customized layout using React (e.g. image grids, cards, side-by-side sections)
+Adapted UI components from Ionic Docs
+Delivered clean, extensible source code for future non-developer content updates
+Technologies: Docusaurus, React, TypeScript, Markdown, Lunr.js, AWS S3, Git
+Freelance Automation Engineer
+Foreside Financial Group, LLC | Jul 2021 – Sep 2021
+Participated in a full stack development project to enhance an ASP.NET MVC 5 web application for a financial services firm
+Refined report viewer rendering to improve usability and accuracy of SSRS-based reports
+Designed and implemented new application features and improved existing functionality in collaboration with a team of 3–4 developers
+Developed backend and frontend components using C#, ASP.NET MVC, Razor, AngularJS, JavaScript, jQuery, and SQL Server
+Performed ongoing maintenance tasks, including bug fixes and performance optimizations
+Provided support for end-users, addressing technical issues and ensuring smooth application operation
+Authored technical and user documentation to support onboarding and feature usage
+Followed SOLID principles and best practices in object-oriented programming to deliver clean, maintainable code
+Participated in tri-weekly standups and maintained a four-hour overlap with EST working hours
+Technologies: ASP.NET MVC 5, C#, .NET Framework 4.7.2, .NET Standard, Razor, Entity Framework 6, SQL Server 2017, SSRS, AngularJS, Kendo UI, JavaScript, jQuery, Git, Visual Studio
+
+Peter V, Potree Point Cloud Viewer Enhancements | Aug 2020 – Nov 2022
+Developed and integrated an Annotation Search field for efficient navigation and camera positioning.
+Implemented dynamic toggle buttons for granular control over point cloud and annotation visibility.
+Created ShareView and DefaultView features for enhanced sharing and initial project loading.
+Integrated .SHP (Shape files) support with dynamic buttons and synchronized displays.
+Enhanced user experience by implementing a highlight function for annotations post-search.
+Developed custom circular buttons for multi-action controls (e.g., view changes, object toggles).
+Ensured compatibility with Potree version 1.8 and new converter files.
+Resolved critical bugs related to data display, point cloud ordering, and visibility across different browser environments.
+Provided comprehensive video guides and documentation for feature reusability.
+Conducted in-depth code inspection and analysis for complex mathematical geometry implementations.
+Technologies: HTML, JavaScript, CSS, Potree, Three.js, QGIS, JavaScript Obfuscator, jQuery
+
+
+
+
+WordPress Integration & Custom API Development for MapSVG Plugin
+FullView Solutions, South Africa | Jul 2020 & Jun 2021
+Developed a custom WordPress plugin (mapsvg-api-master) to expose secure RESTful API endpoints enabling automated updates to MapSVG region data.
+Engineered a C# synchronizer app that reads data from a remote Microsoft SQL Server and syncs it with MapSVG’s WordPress backend via authenticated API requests.
+Implemented application-level authentication using WordPress Application Passwords, including integration into .json config files for seamless non-interactive API communication.
+Created deployment instructions and video tutorials for client-side reusability, minimizing future dependency.
+Delivered secure middleware architecture separating DB and web layers via a protected JSON API.
+Maintained compatibility with existing MapSVG configuration, ensuring backward compatibility across multiple WP instances.
+Technologies: WordPress, MapSVG Plugin, C#, MSSQL, REST API, JSON, Application Passwords, Postman
+Freelance Automation Engineer
+Oak's Beach Store, Australia  | September 2020 - January 2022
+Developed and maintained Zapier workflows to automate the processing of invoices and data extraction from various document types
+Integrated DocParser with Zapier and Google Sheets to streamline data extraction and processing
+Automated the retrieval of invoices from URLs, including handling complex redirect mechanisms and security measures for systems like Attaché Online
+Developed a Node.js application to programmatically access and download invoice files, overcoming challenges such as anti-automation techniques
+Implemented solutions for handling different invoice formats and supplier requirements, including data transformation and standardization
+Built a system to extract data from .txt files generated by a POS system and upload it to Quickbooks Online, including the separation of credit notes
+Addressed issues with data accuracy and consistency, such as leading zero removal in Google Sheets and ensuring correct data formatting across different systems
+Developed a mechanism to generate unique identifiers for items based on item descriptions using md5 hashing to handle invoices with non-unique identifiers
+Utilized AWS EC2 for deploying and managing applications, including setting up instances, configuring security groups, and ensuring reliable access
+Technologies: Zapier, DocParser, Google Sheets, Node.js, AWS EC2, JavaScript, HTML, CSS, md5 hashing, Puppeteer, Quickbooks Online API
+Freelance Software Engineer
+Taixing Wang, GetEfficient, Santa Fe Group | April 2020 - May 2020
+Integrated iMIS CRM and SAP Litmos Learning Management System
+Created auto login from iMIS custom link to SAP Litmos
+Created scheduler to fetch courses result from Litmos to iMIS
+Deployed SSL certificate to development instance of the system
+Technologies: SoapUI, Postman, Rest API, C#, ASP.NET, ASP.NET Boilerplate, RestSharp, Quartz
+Freelance Software Engineer
 RoomMe | February 2020 - March 2020
-Real estate technology startup focused on property acquisition and management
-Key Responsibilities:
-Coordinated junior developers and DevOps teams for ERP system integration
-Developed 6-step wizard interface for building acquisition workflow
-Implemented REST API integrations and database optimization
-Managed project timelines and stakeholder communications using Jira
-Technologies: Vue.js, Jenkins, GoLang, Apache, REST APIs, Jira
+Coordinated Junior Devs and DevOps to integrate internal RoomMe ERP system
+Completed 6-step wizard form of building acquisition phase
+Technologies: Vue.JS, Jenkins, GoLang, Labstack, Apache, Rest API, Jira
+Freelance Software Engineer
+Xandro Media, Netherlands | Jan 2020
+Form Calculation System Fix for Stichting Goods for Gambia
+Diagnosed and resolved multiple critical issues in a PHP-based container goods calculation form for a charitable foundation, restoring consistent calculations and form functionality after prior developer setbacks.
+Repaired complex validation logic for package measurements and volume calculations.
+Fixed predictive text functionality to work correctly with packages.
+Implemented robust numerical input validation for donations and measurements.
+Corrected conditional logic for package pickup options based on volume.
+Ensured proper form progression and required field validation.
+Resolved mobile responsiveness issues affecting form titles.
+Conducted thorough testing in a development environment ensuring stability pre-deployment.
+Technologies: PHP, JavaScript, HTML, CSS, Form Validation, Conditional Logic, Client-Side Validation, WordPress, Avada Theme, jQuery, Twitter Bootstrap
+Freelance Software Engineer
+Blinte, Inc | Jan 2020
+Fixed ASP.NET Core SSL and Email Send Bugs in AWS EC2, Load Balancer, Nginx infrastructure
+Technologies: ASP.NET Core, MSSQL, REST API, SOAP-UI, AWS, Load Balancer, Bitbucket
+Freelance Software Engineer
+Brainstormer | Dec 2019 - Jan 2020
+Generated Embeddable, Downloadable animated google slides for restaurant Quiz session
+Technologies: ASP.NET MVC, MSSQL, Google Drive API, Google Slides API, C#
+Freelance Software Engineer
+Ramsis A | Dec 2019 - Jan 2020
+Created Automated Monthly Email with filtered Monthly Typeform response
+Technologies: Zapier, Typeform, Google Sheets
+Freelance Software Engineer
+Derek L | Dec 2019
+Scraped Steam Review Data and transformed to structured excel format
+Technologies: Webscrapper.io, dataminer
+Freelance Software Engineer
+Zabro A | Nov 2019
+Created App to Pull ESPN Fantasy Private League data into MSSQL database
+Technologies: C#, ASP.NET, MSSQL, RestSharp
+Freelance Software Engineer
+Fourgreen.com (US Auto Parts Company) | Jun 2019 - Sep 2019
+Designed & Developed a system to synchronize Candypress inventories with Sellbrite inventories
+Technologies: ASP Classic, ASP.NET MVC, REST API, SOAP-UI, MS SQL Server
+Freelance Software Engineer
+Skilzy.com (French Social Sharing Platform) | May 2019 - Nov 2019
+Enhanced Core search feature to deliver more accurate results
+Added GDPR compliance to the site
+Fixed mobile layout responsiveness
+Resolved incomplete and buggy features including social login using Facebook and Google
+Technologies: ASP.NET MVC, SQL Server, Twitter Bootstrap, OAuth2
 ICT Software Specialist
 Pertamina Drilling Services Indonesia | Feb 2018 - May 2019
-Leading energy company - developed enterprise software solutions for drilling operations
-Major Projects:
 QHSSE Online Training System
-Designed comprehensive training platform from registration to certification
-Implemented intuitive UX with smart guidance systems
-Achieved Gold award in company Continuous Improvement Program
-Reduced training administration time by 60%
+Designed & developed comprehensive training system from registration to certificate publication
+Implemented intuitive UX with smart hints for improved user experience
+Collaborated with QHSSE department to earn Gold award in company Continuous Improvement Program (CIP)
+Technologies: ASP.NET MVC, Angular, AutoMapper, AutoFac, Microsoft Report Viewer, Twitter Bootstrap
 SCM Online Procurement System
-Developed core procurement system for Supply Chain Management department
-Integrated with SAP enterprise system through API connections
-Implemented comprehensive audit trail for accountability and compliance
-Streamlined procurement process reducing approval time by 50%
-Drilling Analytics Dashboard
-Developed drilling analytics platform as part of cross-functional development team
-Contributed to reducing reporting time from 3 days to minutes for critical business metrics
-Delivered real-time insights for Estimated Revenue, Rigs Availability, and Utilization
-Verified accuracy of financial and operational data across multiple systems
-Company-wide Reporting Center
-Established centralized reporting system using SQL Server Reporting Services
+Developed company's core procurement system for Supply Chain Management department
+Implemented granular and comprehensive audit trail for enhanced accountability
+Integrated with SAP enterprise system through WSDL API connections
+Technologies: Serenity Framework, ASP.NET MVC, TypeScript, SAP API, SSRS, Dapper, Balsamiq Mock-Up
+Drilling Barchart Analytics Dashboard
+Led development team of 4 people to create drilling analytics dashboard
+Reduced reporting time from 3 days to minutes for critical metrics (Estimated Revenue, Rigs Availability, Rigs Utilization)
+Verified accuracy of all financial and operational data
+Technologies: Microsoft Project, Simple Mind Pro, SQL Server
+PDSI Report Center
+Established company-wide reporting center using SQL Server Reporting Services
 Reduced custom report generation time from weeks to hours
-Created specialized management analysis reports and dashboards
-Technologies: ASP.NET MVC, Angular, TypeScript, SQL Server, SAP API, SSRS, Microsoft Project
+Created specialized reports for management analysis
+Technologies: SQL Server Reporting Services, SQL Server Database
+User Purchase System
+Coordinated vendor relationships and user requirements
+Developed custom reports for management analysis
+Earned Gold award in company Continuous Improvement Program (CIP)
+Technologies: ASP.NET, Swagger, Postman, SQL Server Database, PDSI Reporting Services
+Senior Web Developer
+Learn Quran | 2017 - Jan 2018
+Developed platform to connect Quran teachers and learners
+Completed assigned Scrum tasks with increased trend productivity
+Customized WordPress themes to meet UI/UX designer expectations
+Created website with mobile responsive layout
+Technologies: PHP, Laravel boilerplate, WordPress, jQuery, Twitter Bootstrap, GitLab
 Software Engineer
 Ciptadra Softindo | 2012 – 2015
-Government technology contractor - developed solutions for Indonesian ministries
-Key Projects:
-Ministry of Public Works: Created data import systems handling gigabyte-scale budgeting data with background processing and progress tracking
-Bank of Indonesia: Enhanced asset management system improving depreciation calculation accuracy
-Ministry of Communication: Developed mobile-responsive live streaming platform optimized for 5000 concurrent users
-Ministry of Agriculture: Recovered and secured plant varieties database, implementing security protocols
-Technologies: ASP.NET, DevExpress, SQL Server, PostgreSQL, Yii Framework, jQuery
+Ministry of Public Work
+Created various data import pages
+Solved gigabyte budgeting data import timeout by implementing background process importer and track import progress using XML table
+Technologies: ASP.NET, DevExpress, nFluent Hibernate
+Bank of Indonesia Management Assets (BISMA 3.1)
+Enhanced accuracy of asset depreciation
+Technologies: ASP.NET, DevExpress, Microsoft SQL Server
+Ministry of Communication and Informatics
+Created a mobile responsive live video streaming website to observe crescent
+Optimized for fast loading when accessed by 5000 concurrent users
+Technologies: Yii, Yii boilerplate, Red5 Media Server, Varnish Cache, PostgreSQL, jQuery, ffmpeg
+Ministry of Agriculture
+Recovered hacked plant varieties database
+Closed security holes to prevent future attacks
+Technologies: ASP Classic, SQL Server, Joomla, jQuery
 EDUCATION
 University of Indonesia, Depok
 Bachelor of Computer Science (B.S.C.S.) | 2013 - 2016
 Minor: Information Systems
-Relevant Coursework: Algorithm & Data Structures, Software Engineering, Database Systems, Business Intelligence, ERP, SCM, E-Commerce, Information Security Management
+Programming Coursework: Algorithm & Data Structures, Operating Systems, Data Communication Networks, Database, Software Engineering
+Information Systems Coursework: Principle of Information Systems, ERP, SCM, HRM, ITSM, Accounting & Financial Management, Business Intelligence, E-Commerce, Information Security Management
 Bandung State Polytechnic, Bandung
 Associate Degree in Informatics | 2009 - 2012
-Relevant Coursework: Programming Fundamentals, Database Design, Software Engineering, Computer Networks, Operating Systems
+Programming Coursework: Fundamentals of Programming, Algorithm & Data Structures, Database, Software Engineering, Compiler, Software Analysis & Design, Data Communication Networks, Operating System, Numerical Computation, Computer Vision
 PERSONAL PROJECTS
-MindLift - AI-Powered Learning Platform
-Website: https://mindlift.wildanmuhlis.com
-Developed comprehensive quiz platform leveraging OpenAI for personalized learning experiences. Implemented user authentication, session management, and analytics tracking. Features automated deployment pipelines and robust error monitoring.
+
+MindLift - AI-Powered Quiz Platform for Personalized Learning | https://mindlift.wildanmuhlis.com 
+
+Built a web app that leverages OpenAI to generate and manage quiz questions for personalized learning
+Enabled users to create quizzes from custom topics or predefined sets, with support for direct text input
+Integrated Supabase for user authentication, session management, and persistent storage
+Implemented robust error monitoring, fallback strategies, and performance tracking for OpenAI API usage
+Integrated Firebase Analytics (GA4) for event and screen tracking across the web app
+Set up CI/CD pipelines with GitHub Actions for automated deployment to Azure and Netlify
+Technologies: TypeScript, React Native, OpenAI API, Supabase, Firebase Analytics (GA4), GitHub Actions, Azure Functions, Netlify, Bolt.new, cursor, github copilot 
+
+
+Professional Profile Match | https://wildanmuhlis.com 
+Built a web app that uses OpenAI to match CVs to job descriptions
+Enabled job description upload (PDF, DOC, DOCX, TXT) or direct text input
+Fetched CV content from Google Docs and displayed it in-app
+Generated match summaries using GPT models with PDF export option
+Tracked OpenAI API token usage and total cost with persistent JSON storage
+Developed admin dashboard to view usage logs and spending stats
+Set up GitHub Actions for automatic FTP deployment to production server
+Technologies: PHP, JavaScript, OpenAI API, Google Docs API, GitHub Actions, HTML2PDF, Smalot/PdfParser, PhpOffice/PhpWord
+
+Discord AI Bot | Personal Project
+Created a Discord bot with AI-powered responses using AnythingLLM
+Maintained per-user conversation context using Discord user IDs
+Included source citations in replies when provided by the AI backend
+Handled API keys securely using environment variables
+Enabled interaction via simple @mention commands
+Configured session management and integrated with custom AnythingLLM endpoint
+Built with modular, maintainable Node.js structure for easy deployment
+Technologies: Node.js, Discord.js, AnythingLLM API, Axios, Dotenv
+
         MindBridge - AI-Powered Mind Mapping App
 Website: https://mindbridge.wildanmuhlis.com
 Developed an interactive mind mapping application using React Native/Expo and PHP backend, powered by OpenAI GPT-4o mini. Engineered dynamic, multi-level mind map generation and real-time node expansion. Implemented secure API integration, adaptive UI with visual hierarchy, and combined frontend/backend build system for seamless deployment. Features include instant updates, breadcrumb navigation, and smart statistics, with automated build and deployment workflows.
-Professional Profile Matcher
-Website: https://wildanmuhlis.com
-Created AI-powered CV matching system for recruitment optimization. Supports multiple file formats, generates detailed match analysis, and includes admin dashboard for usage tracking and cost management.
-Discord AI Bot
-Personal project creating intelligent chatbot with context-aware responses, user session management, and secure API integration for community engagement.
-AWARDS & RECOGNITION
-Pertamina Drilling Services Indonesia - Continuous Improvement Program 2018:
-QHSSE Online Training System: Gold Award
-User Purchase System: Gold Award
-UMK Online System: Bronze Award
-Top 20 Socio Digi Leaders - Telkom Indonesia digital innovation competition with focus on social impact applications
-Published Research: "Optical Character Recognition Improvement for License Plate Recognition in Indonesia" - IEEE Conference Publication (2012)
-ADDITIONAL INFORMATION
-Languages: Indonesian (Native), English (Fluent)
-Availability: Open to full-time, part-time, contract, and consulting opportunities
-Remote Work: Experienced in managing international client relationships across multiple time zones
+
+
+AWARDS & PUBLICATIONS
+Pertamina Drilling Services Indonesia Continuous Improvement Program (CIP) Competition 2018:
+QHSSE Online Training (Achievement: Gold)
+User Purchase (Achievement: Gold)
+UMK Online (Achievement: Bronze)
+Top 20 Socio Digi Leaders Telkom Indonesia. Socio Digi Leaders is a competition program organized by Telkom Indonesia to find digital application ideas that are beneficial to society. Selected participants will have the opportunity to take part in a paid internship and receive guidance in leadership programs, entrepreneurship, and social needs orientation.
+Published Paper (2012): "Optical Character Recognition Improvement for License Plate Recognition in Indonesia" (IEEE)
+
